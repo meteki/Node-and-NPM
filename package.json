@@ -1,0 +1,31 @@
+{
+  "name": "lab_2",
+  "version": "0.0.1",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meteki/Node-and-NPM.git"
+  },
+  "keywords": [
+    "Working",
+    "with",
+    "Node",
+    "and",
+    "NPM"
+  ],
+  "author": "Meteci",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meteki/Node-and-NPM/issues"
+  },
+  "homepage": "https://github.com/meteki/Node-and-NPM#readme",
+  "description": "",
+  "dependencies": {
+    "luxon": "^3.5.0"
+  }
+}
